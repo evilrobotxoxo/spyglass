@@ -17,6 +17,7 @@ SHARED_MODULES = [
     "lfp",
     "linearization",
     "mua",
+    "neurokairos",
     "position",
     "ripple",
     "sharing",
